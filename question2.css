@@ -1,0 +1,32 @@
+body{
+  text-align:justify;
+  
+  padding-top: 30%;
+  background: linear-gradient(to bottom, violet 10%, blue 10%, pink 15%);
+}
+.family{
+  height:60px;
+  width: 70px;
+  padding-left: 30px;
+}
+.single{
+  width: 70px;
+  height:60px;
+  padding-top: 25px;
+  padding-left: 30px;
+}
+.river
+{
+  padding-top: 25px;
+ width: 70px;
+padding-left: 30px; height:60px;
+}
+.great{
+  padding-top:25px;
+width: 70px;
+ padding-left: 30px;
+  height:60px;
+}
+.pa{
+  font-size: 30px;
+}

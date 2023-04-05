@@ -1,0 +1,28 @@
+body {
+    font-size: 15pt;
+    text-align: center;
+  background-image:url(description.png);
+ background-repeat: no-repeat;
+ background-size:25pc;
+}
+.initial{
+  
+  border-bottom-style: dotted;
+  border-width: 5px;
+  border-color: blueviolet;
+}
+.d{
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: blueviolet;
+  padding-top: 10%;
+  color:snow;
+  
+}
+.start{
+  color:violet;
+  width: 9pc;
+  font-size: 20px;
+  background-color:grey;
+  opacity: transparent;
+}

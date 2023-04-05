@@ -1,0 +1,31 @@
+body{
+  text-align:justify;
+  
+  padding-top: 30%;
+  background: linear-gradient(to bottom, violet 10%, blue 10%, pink 15%);
+}
+.A{
+  color:violet;
+  padding-left: 20px;
+    background-color: gray;
+    margin: 20px;
+  
+}
+.B{
+  color:violet;
+padding-left: 20px;
+  background-color: gray;
+  margin: 20px;
+}
+.C{
+  color:violet;
+    background-color: gray;
+  padding-left: 20px;
+  margin: 20px;
+}
+.D{
+  color:violet;
+  padding-left: 20px;
+  background-color: gray;
+  margin: 20px;
+}

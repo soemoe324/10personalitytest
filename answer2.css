@@ -1,0 +1,6 @@
+body{
+  text-align:center;
+  
+  padding-top: 30%;
+  background: linear-gradient(to bottom, violet 10%, blue 10%, pink 15%)
+}

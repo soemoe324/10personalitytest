@@ -1,0 +1,33 @@
+body{
+  text-align:justify;
+  padding-top: 30%;
+  background: linear-gradient(to bottom, violet 10%, blue 10%, pink 15%);
+}
+.one{
+  font-size: 40px;
+  
+}
+.A{
+  font-size: 30px;
+  width:50px;
+  height: 50px;
+}
+.B{
+  font-size: 30px;
+  width:50px;
+  height: 50px;
+
+}
+.C{
+  font-size: 30px;
+  width:50px;
+  color: inherit;
+  height: 50px;
+
+}
+.D{
+  font-size: 30px;
+  width:50px;
+  height: 50px;
+color: inherit;
+}
